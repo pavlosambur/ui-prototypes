@@ -1,0 +1,259 @@
+{
+  "14314426": {
+    "marketType": "twoWay",
+    "prices": [
+      { "price": 1.9, "market": "1" },
+      { "price": 1.9, "market": "2" }
+    ],
+    "mobileBackgroundImage": "1000_14314426_ps.jpg",
+    "desktopBackgroundImage": "1600_14314426_ps.jpg",
+    "competitor1Name": "Iga Swiatek",
+    "competitor2Name": "Sorana Cirstea",
+    "eventDate": "18.09.25",
+    "eventStartTime": "10:03",
+    "eventCategory": "WTA",
+    "eventChampionship": "Seoul. Hard",
+    "eventStage": "live",
+    "eventPeriod": "2nd set",
+    "eventTime": null,
+    "serverCompetitor": 1,
+    "scoreInCurrentGameCompetitor1": 40,
+    "scoreInCurrentGameCompetitor2": 40,
+    "scoreInCurrentPeriodCompetitor1": 3,
+    "scoreInCurrentPeriodCompetitor2": 1,
+    "scoreInMatchCompetitor1": 1,
+    "scoreInMatchCompetitor2": 0
+  },
+  "14259853": {
+    "marketType": "twoWay",
+    "prices": [
+      { "price": 1.9, "market": "1" },
+      { "price": 1.9, "market": "2" }
+    ],
+    "mobileBackgroundImage": "1000_14259853_ps.jpg",
+    "desktopBackgroundImage": "1600_14259853_ps.jpg",
+    "competitor1Name": "Tasmania JackJumpers",
+    "competitor2Name": "Melbourne United",
+    "eventDate": "18.09.25",
+    "eventStartTime": "10:03",
+    "eventCategory": "Australia",
+    "eventChampionship": "NBL",
+    "eventStage": "live",
+    "eventPeriod": "3rd quater",
+    "eventTime": "5:14",
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": 25,
+    "scoreInCurrentPeriodCompetitor2": 22,
+    "scoreInMatchCompetitor1": 85,
+    "scoreInMatchCompetitor2": 126
+  },
+  "14159841": {
+    "marketType": "threeWay",
+    "prices": [
+      { "price": 2.7, "market": "1" },
+      { "price": 2.9, "market": "x" },
+      { "price": 3.12, "market": "2" }
+    ],
+    "mobileBackgroundImage": "1000_14159841_ps.jpg",
+    "desktopBackgroundImage": "1600_14159841_ps.jpg",
+    "competitor1Name": "Newcastle",
+    "competitor2Name": "Barcelona",
+    "eventDate": "18.09.25",
+    "eventStartTime": "00:00",
+    "eventCategory": "UEFA Champions League",
+    "eventChampionship": "League Phase",
+    "eventStage": "live",
+    "eventPeriod": "2nd half",
+    "eventTime": "67:45",
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": 0,
+    "scoreInCurrentPeriodCompetitor2": 0,
+    "scoreInMatchCompetitor1": 2,
+    "scoreInMatchCompetitor2": 2
+  },
+  "14157435": {
+    "marketType": "threeWay",
+    "prices": [
+      { "price": 2.7, "market": "1" },
+      { "price": 2.9, "market": "x" },
+      { "price": 3.12, "market": "2" }
+    ],
+    "mobileBackgroundImage": "1000_14157435_ps.jpg",
+    "desktopBackgroundImage": "1600_14157435_ps.jpg",
+    "competitor1Name": "Newells Old Boys",
+    "competitor2Name": "CA Belgrano",
+    "eventDate": "18.09.25",
+    "eventStartTime": "00:00",
+    "eventCategory": "Argentina",
+    "eventChampionship": "Cup",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  },
+  "14196120": {
+    "marketType": "twoWay",
+    "prices": [
+      {
+        "price": 1.9,
+        "market": "1"
+      },
+      {
+        "price": 1.9,
+        "market": "2"
+      }
+    ],
+    "mobileBackgroundImage": "1000_14196120_ps.jpg",
+    "desktopBackgroundImage": "1600_14196120_ps.jpg",
+    "competitor1Name": "Brazil",
+    "competitor2Name": "Serbia",
+    "eventDate": "18.09.25",
+    "eventStartTime": "05:00",
+    "eventCategory": "National teams",
+    "eventChampionship": "FIVB World Championship",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  },
+  "14302919": {
+    "marketType": "twoWay",
+    "prices": [
+      {
+        "price": 1.9,
+        "market": "1"
+      },
+      {
+        "price": 1.9,
+        "market": "2"
+      }
+    ],
+    "mobileBackgroundImage": "1000_14302919_ps.jpg",
+    "desktopBackgroundImage": "1600_14302919_ps.jpg",
+    "competitor1Name": "Los Angeles Dodgers",
+    "competitor2Name": "Philadelphia Phillies",
+    "eventDate": "18.09.25",
+    "eventStartTime": "05:10",
+    "eventCategory": "MLB",
+    "eventChampionship": "Regular season",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  },
+  "14196253": {
+    "marketType": "twoWay",
+    "prices": [
+      {
+        "price": 1.9,
+        "market": "1"
+      },
+      {
+        "price": 1.9,
+        "market": "2"
+      }
+    ],
+    "mobileBackgroundImage": "1000_14196253_ps.jpg",
+    "desktopBackgroundImage": "1600_14196253_ps.jpg",
+    "competitor1Name": "Finland",
+    "competitor2Name": "Korea Republic",
+    "eventDate": "18.09.25",
+    "eventStartTime": "05:30",
+    "eventCategory": "National teams",
+    "eventChampionship": "FIVB World Championship",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  },
+  "14297869": {
+    "marketType": "twoWay",
+    "prices": [
+      {
+        "price": 1.9,
+        "market": "1"
+      },
+      {
+        "price": 1.9,
+        "market": "2"
+      }
+    ],
+    "mobileBackgroundImage": "1000_14297869_ps.jpg",
+    "desktopBackgroundImage": "1600_14297869_ps.jpg",
+    "competitor1Name": "Lois Boisson",
+    "competitor2Name": "Ekaterina Alexandrova",
+    "eventDate": "18.09.25",
+    "eventStartTime": "08:08",
+    "eventCategory": "WTA",
+    "eventChampionship": "Seoul. Hard",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  },
+  "14315129": {
+    "marketType": "twoWay",
+    "prices": [
+      {
+        "price": 1.9,
+        "market": "1"
+      },
+      {
+        "price": 1.9,
+        "market": "2"
+      }
+    ],
+    "mobileBackgroundImage": "1000_14315129_ps.jpg",
+    "desktopBackgroundImage": "1600_14315129_ps.jpg",
+    "competitor1Name": "Diana Shnaider",
+    "competitor2Name": "Suzan Lamens",
+    "eventDate": "18.09.25",
+    "eventStartTime": "08:08",
+    "eventCategory": "WTA",
+    "eventChampionship": "Seoul. Hard",
+    "eventStage": "pre-match",
+    "eventPeriod": null,
+    "eventTime": null,
+    "serverCompetitor": null,
+    "scoreInCurrentGameCompetitor1": null,
+    "scoreInCurrentGameCompetitor2": null,
+    "scoreInCurrentPeriodCompetitor1": null,
+    "scoreInCurrentPeriodCompetitor2": null,
+    "scoreInMatchCompetitor1": null,
+    "scoreInMatchCompetitor2": null
+  }
+}

@@ -1,0 +1,67 @@
+18.09.2025	5:30	Volleyball	National teams	FIVB World Championship	Finland - Korea Republic	14196253
+18.09.2025	8:08	Tennis	WTA	Seoul. Hard	Lois Boisson - Ekaterina Alexandrova	14297869
+18.09.2025	8:08	Tennis	WTA	Seoul. Hard	Diana Shnaider - Suzan Lamens	14315129
+18.09.2025	8:30	Volleyball	National teams	FIVB World Championship	Egypt - Tunisia	14196913
+18.09.2025	9:00	Volleyball	National teams	FIVB World Championship	Belgium - Algeria	14308162
+18.09.2025	10:03	Tennis	WTA	Seoul. Hard	Iga Swiatek - Sorana Cirstea	14314426
+18.09.2025	10:03	Tennis	WTA	Seoul. Hard	Beatriz Haddad Maia - Ella Seidel	14315210
+18.09.2025	12:00	Baseball	Japan	NPB	Hiroshima Toyo Carp - Hanshin Tigers	14294428
+18.09.2025	12:03	Tennis	WTA	Seoul. Hard	Katerina Siniakova - Daria Kasatkina	14296197
+18.09.2025	12:30	Volleyball	National teams	FIVB World Championship	Philippines - Iran	14198478
+18.09.2025	12:30	Basketball	Australia	NBL	Tasmania JackJumpers - Melbourne United	14259853
+18.09.2025	12:30	Basketball	Clubs	Friendlies	Panathinaikos - Partizan	14315079
+18.09.2025	13:00	Volleyball	National teams	FIVB World Championship	France - Argentina	14198595
+18.09.2025	14:03	Tennis	WTA	Seoul. Hard	Barbora Krejcikova - Emma Raducanu	14315266
+18.09.2025	16:00	Volleyball	National teams	FIVB World Championship	Czech Republic - China PR	14199591
+18.09.2025	16:30	Volleyball	National teams	FIVB World Championship	Italy - Ukraine	14199733
+18.09.2025	19:45	Football	UEFA Champions League	League Phase	FC Copenhagen - Bayer Leverkusen	14157429
+18.09.2025	19:45	Football	UEFA Champions League	League Phase	Club Brugge - AS Monaco	14157430
+18.09.2025	22:00	Football	UEFA Champions League	League Phase	Man City - Napoli	14157427
+18.09.2025	22:00	Football	UEFA Champions League	League Phase	Sporting CP - Kairat Almaty	14157431
+18.09.2025	22:00	Football	UEFA Champions League	League Phase	Eintracht Frankfurt - Galatasaray	14157583
+18.09.2025	22:00	Football	UEFA Champions League	League Phase	Newcastle - Barcelona	14159841
+19.09.2025	1:00	Football	South America	Copa Libertadores	LDU Quito - Sao Paulo FC	14086761
+19.09.2025	2:15	Baseball	MLB	Regular season	Baltimore Orioles - New York Yankees	14310973
+19.09.2025	2:40	Baseball	MLB	Regular season	Milwaukee Brewers - Los Angeles Angels	14311056
+19.09.2025	3:30	Football	South America	Copa Libertadores	Flamengo CR - Estudiantes La Plata	14087600
+19.09.2025	3:30	Football	South America	Copa Sudamericana	Alianza Lima - Universidad de Chile	14205999
+19.09.2025	5:10	Baseball	MLB	Regular season	Los Angeles Dodgers - San Francisco Giants	14311624
+19.09.2025	10:30	Basketball	Australia	NBL	New Zealand Breakers - Brisbane Bullets	14259854
+19.09.2025	19:30	Football	Germany	Bundesliga 2	Kaiserslautern - Preussen Munster	14150921
+19.09.2025	19:30	Football	Germany	Bundesliga 2	Arminia Bielefeld - Greuther Furth	14150922
+19.09.2025	20:00	Football	Turkey	Super League	Goztepe - Besiktas	14165931
+19.09.2025	21:00	Football	Netherlands	Eredivisie	Sparta Rotterdam - Twente	14151660
+19.09.2025	21:30	Football	Germany	Bundesliga	VfB Stuttgart - St Pauli	14152280
+19.09.2025	21:45	Football	France	Ligue 1	Lyon - Angers	14165944
+19.09.2025	21:45	Football	Italy	Serie A	Lecce - Cagliari	14168688
+19.09.2025	22:00	Football	Spain	LaLiga	Betis - Real Sociedad	14166124
+19.09.2025	22:00	Football	England	Championship	Middlesbrough - West Brom	14251162
+19.09.2025	22:15	Football	Portugal	Primeira Liga	Rio Ave - FC Porto	14159444
+19.09.2025	23:00	Football	Argentina	Liga Profesional	Deportivo Riestra - Gimnasia y Esgrima La Plata	14161495
+20.09.2025	1:00	Football	Argentina	Liga Profesional	CA Huracan - Racing Avellaneda	14161496
+20.09.2025	3:15	Football	Argentina	Liga Profesional	Lanus - CA Platense	14161497
+20.09.2025	4:00	Football	Mexico	Liga MX	Cruz Azul - FC Juarez	14153568
+20.09.2025	6:05	Football	Mexico	Liga MX	Tijuana - Club Leon	14153875
+20.09.2025	10:30	Basketball	Australia	NBL	South East Melbourne Phoenix - Cairns Taipans	14259855
+20.09.2025	11:00	Football	Japan	J1 League	Nagoya Grampus - Shonan Bellmare	14216523
+20.09.2025	13:00	Football	Japan	J1 League	Urawa Red Diamonds - Kashima Antlers	14216525
+20.09.2025	13:00	Football	Japan	J1 League	Kyoto Sanga - Shimizu S-Pulse	14216526
+20.09.2025	14:30	Football	England	Premier League	Liverpool - Everton	14159094
+20.09.2025	15:00	Football	Spain	LaLiga	Girona - Levante	14166127
+20.09.2025	16:00	Football	Italy	Serie A	Bologna - Genoa	14168680
+20.09.2025	16:30	Football	Germany	Bundesliga	Werder Bremen - SC Freiburg	14156944
+20.09.2025	16:30	Football	Germany	Bundesliga	TSG Hoffenheim - Bayern Munchen	14156945
+20.09.2025	17:00	Football	England	Premier League	Brighton - Tottenham	14159095
+20.09.2025	17:00	Football	England	Premier League	West Ham - Crystal Palace	14159130
+20.09.2025	17:15	Football	Spain	LaLiga	Real Madrid - Espanyol	14166122
+20.09.2025	18:00	Football	France	Ligue 1	Nantes - Rennes	14165938
+20.09.2025	19:00	Football	Italy	Serie A	Hellas Verona - Juventus	14168751
+20.09.2025	19:30	Football	Germany	Bundesliga	RB Leipzig - Koln	14158672
+20.09.2025	19:30	Football	England	Premier League	Man Utd - Chelsea	14159131
+20.09.2025	19:30	Football	Spain	LaLiga	Villarreal - Osasuna	14166131
+20.09.2025	20:00	Football	Portugal	Primeira Liga	AVS Futebol SAD - SL Benfica	14159445
+20.09.2025	20:00	Football	France	Ligue 1	Brest - Nice	14165937
+20.09.2025	21:45	Football	Italy	Serie A	Udinese - AC Milan	14168718
+20.09.2025	22:00	Football	England	Premier League	Fulham - Brentford	14159132
+20.09.2025	22:00	Football	Spain	LaLiga	Valencia - Athletic Bilbao	14166126
+20.09.2025	22:05	Football	France	Ligue 1	Lens - Lille	14165945

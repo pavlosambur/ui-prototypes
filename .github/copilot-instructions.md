@@ -15,10 +15,12 @@
 
 - Vite+React
 - TypeScript
-- Tailwind CSS v4.1 - і це дуже важливо!
+- Tailwind CSS v4 - і це дуже важливо!
 - React Router
 - GSAP
+- SwiperJS
 
 ## Coding Standards
 
 - Не використовуй any в TypeScript
+- Пиши код як справжній Senior: вишуканий стиль, чистий код, DRY, KISS, YAGNI

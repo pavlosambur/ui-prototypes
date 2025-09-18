@@ -3,5 +3,23 @@
 @theme {
   --font-roboto: "Roboto", sans-serif;
 
-  --color-testbg: #b31414;
+  --color-background-secondary: #0d0d0d;
+  --color-control-secondary: #2a2a2cda;
+
+  --color-medium-banner-content-background-prematch: #0d0d0d81;
+  --color-medium-banner-content-background-live: #0d0d0d81;
+  --color-text-medium-banner: #ffffff;
+  --color-text-medium-banner-live: #55e0ff;
+
+  --color-text-body: #ffffffa6;
+  --color-text-outcome: #55e0ff;
+}
+
+body,
+#root {
+  font-family: var(--font-roboto);
+  background-color: var(--color-background-secondary);
+  justify-content: center;
+  display: flex;
+  width: 100%;
 }
